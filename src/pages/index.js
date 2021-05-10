@@ -15,10 +15,10 @@ const candidates = [
     bio: (
       <>
         <p>
-            I have been a DSA member since 2010 and a member of this chapter since 2014. I am a Chicago Park District worker in Special Recreation working with adults and kids with developmental disabilities, and I’m a proud member of SEIU Local 73. I have been heartened to see the development of this chapter expand with the multitude of projects and campaigns, all while we continue to debate strategy and tactics as to how to build the movement for the working-class. My work very much informs my vision of this chapter and this organization nationally, as working in Special Recreation is a job in helping to create an empowering community for athletes with disabilities while building a union in a vital city service primarily staffed by Black and Brown working-class people with a diversity of political views. As a CDSA member I’ve been involved in various aspects of chapter works from electoral campaigns such as being a 2019 precinct captain for Carlos Rosa’s re-election and helping organize West Side Bernie 2020 canvasses, Labor Branch, Red Rabbits, and Rose Buddies. 
+            I have been a DSA member since 2010 and a member of this chapter since 2014. I am a Chicago Park District worker in Special Recreation working with adults and kids with developmental disabilities, and I’m a proud member of SEIU Local 73. I have been heartened to see the development of this chapter expand with the multitude of projects and campaigns, all while we continue to debate strategy and tactics as to how to build the movement for the working-class. My work very much informs my vision of this chapter and this organization nationally, as working in Special Recreation is a job in helping to create an empowering community for athletes with disabilities while building a union in a vital city service primarily staffed by Black and Brown working-class people with a diversity of political views. As a CDSA member I’ve been involved in various aspects of chapter works from electoral campaigns such as being a 2019 precinct captain for Carlos Rosa’s re-election and helping organize West Side Bernie 2020 canvasses, Labor Branch, Red Rabbits, and Rose Buddies.
         </p>
         <p>
-            In my view, I want to continue developing DSA as the organization to create a nucleus of  a party for the working-class. Being a member of the Bread & Roses caucus has informed my thinking and political development in understanding, with the strategizing of elections through a class-struggle lens, critically engaging what it means to be a part of a rank-and-file led labor movement, and tying anti-oppression politics including abolitionism, the struggle against white supremacy, feminism, indigenous empowerment, and queer empowerment to mass-movement struggles.  
+            In my view, I want to continue developing DSA as the organization to create a nucleus of  a party for the working-class. Being a member of the Bread &amp; Roses caucus has informed my thinking and political development in understanding, with the strategizing of elections through a class-struggle lens, critically engaging what it means to be a part of a rank-and-file led labor movement, and tying anti-oppression politics including abolitionism, the struggle against white supremacy, feminism, indigenous empowerment, and queer empowerment to mass-movement struggles.  
         </p>
         <p>
             Concretely, this means as a delegate that my focus will be around strengthening our electoral strategy, renewing our commitment to the rank-and-file strategy, and supporting the proposal to make reparations for Black people in the United States become a national priority. Beyond these efforts I also intend to strengthen our international solidarity work as well. I am especially excited by the proposal for the organization to join the Sao Paulo Forum, which would align us with left-wing Latin American political parties throughout our hemisphere. But beyond such affiliation it is my belief that DSA must engage in a project to combine abolitionism with anti-imperialism, extending efforts to defund the police to our military systems that empower our militarized police.
@@ -116,7 +116,27 @@ const candidates = [
     name: "Sveta Stoytcheva",
     bio: (
       <>
-        <p> </p>
+        <p>
+            I’m running alongside my comrades in Bread &amp; Roses to represent our chapter at the 2021 DSA National Convention. I am really proud of the work our organization has done and see in it the seeds of a powerful mass organization that can be a political home for the working class as we fight for the world we deserve.
+        </p>
+        <p>
+            I currently serve as the Political Education Coordinator for Chicago DSA, where I help lead our Socialist Night School and support our robust political education and policy work. I joined DSA in 2018 and got involved as a campaign volunteer for one of our socialist alders. Since then, I have organized with the Democratize ComEd campaign, served on our local DSA for Bernie Steering Committee, and helped launch Chicago DSA’s Defund CPD, Fund Our Communities campaign.
+        </p>
+        <p>
+            If I am elected to represent our chapter as a convention delegate, here are some of the resolutions and priorities that I am committed to organizing for:
+        </p>
+        <p>
+            I support the “Toward a Mass Working Class Party” and “Building Worker Power to Win Democratic Socialism” resolutions put forward by the National Electoral Committee and the Democratic Socialist Labor Commission. The state and the labor movement are crucial terrains if we’re serious about organizing for power and I believe these resolutions offer concrete ways for our organization to engage in these struggles while building up working class organization independent of the Democratic Party and union bureaucracies.  
+        </p>
+        <p>
+            I also support resolutions for strategic national priority campaigns that orient our organization towards the masses of ordinary people, address specific harms that divide and disempower the working class, and bring all of us into solidarity and struggle.  In particular, I am excited to support resolutions that commit our organization to work toward winning reparations for Black people from the federal government, build a mass campaign for voting rights, and recommit us to the fight for an ecosocialist Green New Deal.
+        </p>
+        <p>
+            To build power and win our demands, we need political leadership that is empowered to organize around our democratically determined priorities and we need to make sure that chapters and other bodies have adequate resources to carry out those priorities. That is why I support resolutions to elect DSA’s national director, pay stipends to the NPC Steering Committee, and provide matching funds for chapters to hire staff and open offices. I also support the resolution to strengthen YDSA and the “Beyond 100K” resolution to build up chapters’ capacity for membership recruitment and engagement. 
+        </p>
+        <p>
+            I am also firmly committed to the understanding that the strength of DSA’s big tent is that it brings us together to share our perspectives, work through our disagreements, and move towards collective action. If elected, I look forward to engaging with the entire Chicago delegation to understand my comrades’ priorities and vision for DSA, respectfully articulate our political differences, and organize together around our shared goals.
+        </p>
       </>
     ),
   },
@@ -249,13 +269,13 @@ class Candidates2020 extends React.Component {
 
         <div className="content-column">
           <Element name="priorities" id="priorities">
-            <h2>Important Dates:</h2>
+            <h2>Important Dates</h2>
             <ul>
                 <li><strong>Chicago DSA Candidate Forums:</strong> May 12 and May 15</li>
                 <li><strong>Voting on Delegates:</strong> May 23–28 (online)</li>
                 <li><strong>2021 DSA Convention:</strong> August 1–8 (<ExternalLink href="https://convention2021.dsausa.org/">more info</ExternalLink>)</li>
             </ul>
-            <h2>Introducing the B&R Slate of National Convention Delegates for Chicago DSA</h2>
+            <h2>Introducing the B&amp;R Slate of National Convention Delegates for Chicago DSA</h2>
 
             <p>
                 During the past five years, DSA members have elected socialists to Congress, helped organize the teacher strike wave, joined the mass mobilization against police killings, and brought a socialist political perspective to millions of people during the Bernie Sanders presidential campaigns. In the process, DSA has transformed from a small 5,000-member activist group to 90,000+-member mini-mass organization. We are running to be delegates to the national convention as part of the Bread and Roses slate because we believe DSA can do much more over the next two years to build on this progress. We believe DSA should focus on the following core areas:
@@ -268,7 +288,7 @@ class Candidates2020 extends React.Component {
                 <strong>Rank-and-file labor organizing.</strong> Socialism will not become a reality until there is an organized working class ready to fight for it. We believe DSA can make progress on this front by continuing its commitment to the rank-and-file strategy: developing and expanding a layer of socialist organizers in workplaces who fight the boss, push for union democracy, promote a socialist political perspective on the job, and grow the labor movement. That’s why we support the resolution <ExternalLink href="https://docs.google.com/document/d/1zf1PKeKlYXEsP8nSMsb0uHmqyCMinuRw1ofhDVnT6QA/edit">Building Worker Power to Win Democratic Socialism: A Labor Strategy for DSA in 2021-2023</ExternalLink>.
             </li>
             <li>
-                <strong>Class struggle elections.</strong> By running campaigns to elect socialists to public office, we can help build our movements and promote an alternative to the billionaire-dominated political establishment. And in the long term, we are committed to building an organization that can take state power as part of the transition to socialism. That’s why we support the National Electoral Committee’s resolution <ExternalLink href="https://dsanec.github.io/resolution/">Toward a Mass Party in the United States</ExternalLink>.
+                <strong>Class-struggle elections.</strong> By running campaigns to elect socialists to public office, we can help build our movements and promote an alternative to the billionaire-dominated political establishment. And in the long term, we are committed to building an organization that can take state power as part of the transition to socialism. That’s why we support the National Electoral Committee’s resolution <ExternalLink href="https://dsanec.github.io/resolution/">Toward a Mass Party in the United States</ExternalLink>.
             </li>
             <li>
                 <strong>A strong and democratic national organization.</strong> DSA has a structure inherited from the days when it was still a small activist group. Today, to build a powerful mass organization that can take on and defeat the ruling class, we need to strengthen DSA and increase its level of internal democracy. That’s why we support a <ExternalLink href="https://docs.google.com/document/d/12J3OXOIXq6btqKT1BoTt2UCrMt6If8pTjZQAgl_miAg/edit">constitutional change to make DSA’s National Director an elected position</ExternalLink>, <ExternalLink href="https://docs.google.com/document/d/1i333Ci59kGzV-ivbSwOl8Pg_WoUH0yHugRV7eetzGGI/edit">stipends for NPC Steering Committee members</ExternalLink>, and the <ExternalLink href="https://docs.google.com/document/d/1hexVaR046oZF-RnBSijv2WMgN80WlCSONhep85uopus/edit">Resolution to Strengthen DSA From the Bottom Up Through National Matching Funds For Chapters to Hire Staff and Open Offices</ExternalLink>. 
