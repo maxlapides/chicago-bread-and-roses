@@ -61,7 +61,7 @@ const Layout = ({ title, color, children, heroImageName, layoutClassName }) => (
           <div className="logo-container">
             <Link to="/">
               <Logo className="logo" />
-              <div className="logo-local">YDSA</div>
+              <div className="logo-local">Chicago</div>
             </Link>
           </div>
           <TopNav menuLinks={data.site.siteMetadata.menuLinks} />
