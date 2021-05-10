@@ -46,7 +46,7 @@ const candidates = [
     ),
   },
   {
-    name: "Lillian Osbourne",
+    name: "Lillian Osborne",
     bio: (
       <>
         <p> </p>
