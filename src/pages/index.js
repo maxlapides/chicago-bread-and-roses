@@ -72,13 +72,13 @@ most impacted of our society serve a key role in leading a successful revolution
     bio: (
       <>
         <p>
-            My name is Emilie and I would be honored to receive your vote and represent Chicago DSA at the 2021 convention. I have been a CDSA member since mid 2018 and currently serve on the steering committees of the North Side Blue Line and Labor Branches, and I am a co-chair of the New Member Orientations and Emergency Workplace Organizing Committee (EWOC) subcommittees. One of my first experiences in CDSA was with strike support--the Unite HERE hotel workers, the Chicago Symphony Orchestra, UIC grad students, and the CPS strike in 2019--and these experiences changed the way I believe we will win socialism.
+            My name is Emilie and I would be honored to receive your vote and represent Chicago DSA at the 2021 convention. I have been a CDSA member since mid 2018 and currently serve on the steering committees of the North Side Blue Line and Labor Branches, and I am a co-chair of the New Member Orientations and Emergency Workplace Organizing Committee (EWOC) subcommittees. One of my first experiences in CDSA was with strike support&mdash;the Unite HERE hotel workers, the Chicago Symphony Orchestra, UIC grad students, and the CPS strike in 2019&mdash;and these experiences changed the way I believe we will win socialism.
         </p>
         <p>
             A bottom-up, worker-led mass movement that can act collectively can extract demands from the ruling class in the same way CTU and the hotel workers were able to do when they shut down the city by going on strike. What we need to do now, as the largest socialist organization in the country, is to develop a militant working class that can see themselves as a group separate from the capitalist class that can actually change the world for the better. This takes a lot of work, and many conversations with neighbors and co-workers. What made these strikes successful was their constant internal organizing: listening to co-workers’ concerns, finding out what they think the causes of their problems are, and lifting them up and showing them that they have the right to demand changes in their workplace, and then all acting as one to get those demands met.
         </p>
         <p>
-            The vast majority of the working class is not politically activated--they see no benefit in engaging with politics, and rightly so, because it rarely offers them anything. Reaching these people won’t be easy but it is necessary to build a mass movement. The events that have caught the most national attention are our workplace and electoral wins, and the way to make more of those is to reach out and show working people what a socialist vision is and what it can do.
+            The vast majority of the working class is not politically activated&mdash;they see no benefit in engaging with politics, and rightly so, because it rarely offers them anything. Reaching these people won’t be easy but it is necessary to build a mass movement. The events that have caught the most national attention are our workplace and electoral wins, and the way to make more of those is to reach out and show working people what a socialist vision is and what it can do.
         </p>
         <p>
             This orientation is what guides my work in organizing within and outside of DSA and is why I’m a member of the Bread &amp; Roses caucus, a marxist caucus of DSA members. The fact of organizing in DSA is that most of us are learning as we go. Very few of us have decades of experience in union organizing or running an electoral campaign. What I have learned in leadership at CDSA is that the benefit of being part of a national organization is that we can transfer knowledge and give support to winnable socialist projects elsewhere, building on our successes and helping us to prepare for the next fight. But to do this well, we need to operate in coordination. That’s what makes the national convention an opportunity to strengthen the national organization and build working class consciousness and power nationwide.
@@ -400,7 +400,7 @@ class Candidates2020 extends React.Component {
             </li>
             </ul>
             <p>
-                If you support these priorities, vote for the Bread &amp; Roses slate: Alec Hudson, Anthony Quezada, Emily Shireman, JP Kaderbek, Lillian Osborne, Melinda Bunnage, Sandy Barnard, Sarah Zimmerman, Stephen Thompson, Sveta Stoytcheva, Tristan Bock-Hughes, Waleeta Canon, and Will Bloom.
+                If you support these priorities, vote for the Bread &amp; Roses slate: Alec Hudson, Anthony Quezada, Emilie Shireman, JP Kaderbek, Lillian Osborne, Melinda Bunnage, Sandy Barnard, Sarah Zimmerman, Stephen Thompson, Sveta Stoytcheva, Tristan Bock-Hughes, Waleeta Canon, and Will Bloom.
             </p>
           </Element>
         </div>
