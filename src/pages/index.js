@@ -45,6 +45,7 @@ const candidates = [
         <p>
             I am hoping to advocate for resolutions that will push DSA into becoming a sophisticated and critical organization that can coordinate an effective national strategy, while also learning how to develop and organize powerful local campaigns (both issue based and electoral).
         </p>
+        <p>
             As an organizer for successful leftist electoral campaigns, and as someone who has worked with our comrade Alderman Carlos Rosa, I know firsthand the potential for socialists in office. That is why I am excited to support the resolution Toward a Mass Working Class Party&mdash;A resolution to turn DSA into a party-like electoral apparatus that can identify and run DSA organizers across the country who can use their offices to root class struggle politics.
         </p>
         <p>
@@ -67,7 +68,7 @@ most impacted of our society serve a key role in leading a successful revolution
     ),
   },
   {
-    name: "Emily Shireman",
+    name: "Emilie Shireman",
     bio: (
       <>
         <p>
