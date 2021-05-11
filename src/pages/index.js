@@ -376,7 +376,8 @@ class Candidates2020 extends React.Component {
           <Element name="priorities" id="priorities">
             <h2>Important Dates</h2>
             <ul>
-                <li><strong>Chicago DSA Candidate Forums:</strong> May 12 and May 15</li>
+                <li><strong>Chicago DSA Candidate Forums:</strong> <ExternalLink href="https://teamup.com/event/show/id/SPuSZzpaJysE4DwUUTyFhLrGgegCwL">May 12 at 6 p.m.</ExternalLink> and <ExternalLink href="https://teamup.com/event/show/id/ok9HNbft3VMWB7tEHrqJLCjVQ31ipA">May 15 at noon</ExternalLink></li>
+                <li><strong>Voter Registration:</strong> ends May 18 (<ExternalLink href="https://docs.google.com/forms/d/e/1FAIpQLSfYP0i9oJ5itj3yu6LHg1_Iat0IpznUVc_qNDWuFdS-a3cu_Q/viewform">ongoing</ExternalLink>)</li>
                 <li><strong>Voting on Delegates:</strong> May 23–28 (online)</li>
                 <li><strong>2021 DSA Convention:</strong> August 1–8 (<ExternalLink href="https://convention2021.dsausa.org/">more info</ExternalLink>)</li>
             </ul>
