@@ -6,6 +6,8 @@ body {
   font-family: "Lora", serif;
   font-size: 16px;
   line-height: 1.6em;
+  font-variant: normal;
+  font-feature-settings: normal;
 
   @include bp(desktop) {
     font-size: 18px;
