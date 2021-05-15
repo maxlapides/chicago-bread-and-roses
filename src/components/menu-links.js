@@ -33,6 +33,11 @@ class MenuLinks extends React.Component {
           <Link to="/">2021 Delegate Candidates &amp; Priorities</Link>
         </li>
         <li>
+          <ExternalLink href="https://docs.google.com/document/d/1yKN-isoxZ9m8IofKC2uJrecD3T-Q7YyELzB6cuaiVME/edit">
+            Points of Unity
+          </ExternalLink>
+        </li>
+        <li>
           <ExternalLink href="https://breadandrosesdsa.org/">
             Bread &amp; Roses DSA
           </ExternalLink>
