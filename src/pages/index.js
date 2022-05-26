@@ -11,20 +11,27 @@ import ExternalLink from "../components/external-link"
 
 const candidates = [
   {
-    name: "Alec Hudson",
+    name: "Emily Mikhail",
+    position: "Chapter Co-Chair",
     bio: (
       <>
         <p>
-            I have been a DSA member since 2010 and a member of this chapter since 2014. I am a Chicago Park District worker in Special Recreation working with adults and kids with developmental disabilities, and I’m a proud member of SEIU Local 73. I have been heartened to see the development of this chapter expand with the multitude of projects and campaigns, all while we continue to debate strategy and tactics as to how to build the movement for the working-class. My work very much informs my vision of this chapter and this organization nationally, as working in Special Recreation is a job in helping to create an empowering community for athletes with disabilities while building a union in a vital city service primarily staffed by Black and Brown working-class people with a diversity of political views. As a CDSA member I’ve been involved in various aspects of chapter works from electoral campaigns such as being a 2019 precinct captain for Carlos Rosa’s re-election and helping organize West Side Bernie 2020 canvasses, Labor Branch, Red Rabbits, and Rose Buddies.
+          My name is Emily Mikhail (she/they), and I am running for co-chair of Chicago DSA with the Mass Action Slate.
         </p>
         <p>
-            In my view, I want to continue developing DSA as the organization to create a nucleus of  a party for the working-class. Being a member of the Bread &amp; Roses caucus has informed my thinking and political development in understanding, with the strategizing of elections through a class-struggle lens, critically engaging what it means to be a part of a rank-and-file led labor movement, and tying anti-oppression politics including abolitionism, the struggle against white supremacy, feminism, indigenous empowerment, and queer empowerment to mass-movement struggles.  
+          I have been a member of the chapter since spring 2019 and have had many roles. I served as secretary and co-chair of the Environmental Justice Working Group, as communications co-chair of the Democratize ComEd Campaign, as a member of the executive committee on the North Side Red Line Branch, and as delegate to the 2021 National DSA Convention. With the support of CDSA, I ran for and won a seat as a community representative on my local elementary school’s local school council (LSC). Beyond CDSA, I also helped start the 48th Ward Neighbors for Justice, an independent political organization (IPO) in the Edgewater and Andersonville neighborhoods, and served as a member of both the provisional steering committee and first elected steering committee. Professionally, I'm a social worker.
         </p>
         <p>
-            Concretely, this means as a delegate that my focus will be around strengthening our electoral strategy, renewing our commitment to the rank-and-file strategy, and supporting the proposal to make reparations for Black people in the United States become a national priority. Beyond these efforts I also intend to strengthen our international solidarity work as well. I am especially excited by the proposal for the organization to join the Sao Paulo Forum, which would align us with left-wing Latin American political parties throughout our hemisphere. But beyond such affiliation it is my belief that DSA must engage in a project to combine abolitionism with anti-imperialism, extending efforts to defund the police to our military systems that empower our militarized police.
+          My roles as both socialist and social worker continue to inform each other, especially in the pandemic. As a social worker, I am faced head-on with the injustices of a system structured to keep the working class down. Housing insecurity and homelessness, the lack of union jobs and good healthcare, the attack on reproductive rights, environmental racism, and white supremacy all oppress us by design, and only a mass socialist movement can overcome the power of the ruling class.
         </p>
         <p>
-            I look forward to the continued growth of the working-class movement and the development of our political organization. DSA has shown me what a future based on solidarity looks like, and I am full of hope and love in building that future with you all. 
+          Ecosocialist organizing is what first brought me to DSA and will continue to be a priority of mine. I believe that, as a mass organization that prioritizes internal democracy, we can go beyond what climate NGOs have been able to accomplish and face climate change head-on. As co-chair, I will connect our work supporting rank-and-file labor organizing with focused and winnable campaigns.
+        </p>
+        <p>
+          DSA is the largest socialist organization in the United States, and we are only growing. In the coming year, our chapter is positioned to reelect five socialists, expand the Socialist Caucus on City Council, and support militant unions in their contract negotiations and potential strikes. We’ve won over a dozen LSC seats, we’re poised to organize for the Worker’s Rights Amendment on the ballot this November, and our Labor Branch is successfully building worker committees and a jobs pipeline to bring more socialist union members into the coming contract fights. I see my role as co-chair as a supportive one. I want to use my time to bolster the good work happening across the chapter and bring new members into our Electoral Working Group, Labor Branch, Political Education Committee, and more.
+        </p>
+        <p>
+          Ultimately, I want to grow our chapter and build our capacity to tackle larger fights. We can only do so, however, if we are organized and intentional about the work that we take on. I want to spend my time as co-chair building strong campaigns, branches, and working groups that can take on these external fights and engage thousands of our neighbors in struggle. If we can accomplish this in the next year, I see no limits as to what our working-class movement can win.
         </p>
       </>
     ),
