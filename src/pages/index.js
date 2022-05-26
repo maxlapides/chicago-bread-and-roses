@@ -12,7 +12,7 @@ import ExternalLink from "../components/external-link"
 const candidates = [
   {
     name: "Emily Mikhail",
-    position: "Chapter Co-Chair",
+//    position: "Chapter Co-Chair",
     bio: (
       <>
         <p>
