@@ -32,11 +32,11 @@ class MenuLinks extends React.Component {
     return (
       <ul>
         <li>
-          <Link to="/">2021 Delegate Candidates &amp; Priorities</Link>
+          <Link to="/">2022 Candidates &amp; Platform</Link>
         </li>
         <li>
-          <ExternalLink href="https://docs.google.com/document/d/1yKN-isoxZ9m8IofKC2uJrecD3T-Q7YyELzB6cuaiVME/edit">
-            Points of Unity
+          <ExternalLink href="https://docs.google.com/forms/d/e/1FAIpQLSf5sMP7VoDz1pTydV4y0br0xKaiT16ipe7yKx61iXaVANan7A/viewform">
+            Endorse
           </ExternalLink>
         </li>
         <li>
