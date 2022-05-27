@@ -167,7 +167,7 @@ class Candidates2020 extends React.Component {
         layoutClassName="home"
       >
         <SEO
-          title="2022 Chicago DSA Mass ActioN Slate Delegates and Platform"
+          title="2022 Chicago DSA Mass Action Slate Delegates and Platform"
           ogImage="home"
         />
 
