@@ -14,15 +14,17 @@ class MenuLinks extends React.Component {
     submenuVisible: false,
   }
 
-  setSubmenuHover = isHovered => {
+  setSubmenuHover = (isHovered) => {
     this.setState({ submenuHover: isHovered })
   }
 
   toggleSubmenuVisible = () => {
-    this.setState(prevState => ({ submenuVisible: !prevState.submenuVisible }))
+    this.setState((prevState) => ({
+      submenuVisible: !prevState.submenuVisible,
+    }))
   }
 
-  handleClickOutside = evt => {
+  handleClickOutside = (evt) => {
     this.setState({ submenuVisible: false })
   }
 

@@ -34,7 +34,7 @@ const Layout = ({ title, color, children, heroImageName, layoutClassName }) => (
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <>
         <Helmet>
           <link

@@ -3,7 +3,7 @@ import classNames from "classnames"
 
 import "./hero.scss"
 
-const heroStyle = imageName =>
+const heroStyle = (imageName) =>
   imageName
     ? {
         backgroundImage: `url(/headers/${imageName}.png)`,
