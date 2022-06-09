@@ -211,7 +211,7 @@ class Candidates2020 extends React.Component {
             <ul>
                 <li>
                   <strong>Officer Candidate Forum:</strong>{" "}
-                  Between June 10 and June 18{" "}
+                  Wednesday, June 15 at 6 p.m. <ExternalLink href="https://us02web.zoom.us/meeting/register/tZUtdeqsrTMpH9cWNUZy9hD6mU3JRzZm0z8_?link_id=1&can_id=5d6065447bafae2189510e63df1f53d9&source=email-chicago-dsa-officer-candidate-statements-forum&email_referrer=email_1568383&email_subject=chicago-dsa-officer-candidate-statements-forum">on Zoom</ExternalLink>{" "}
                 </li>
                 <li>
                   <strong>Deadline to Renew Dues:</strong>{" "}
