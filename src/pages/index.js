@@ -11,100 +11,65 @@ import SEO from "../components/seo"
 
 const candidates = [
   {
-    name: "Emily Mikhail",
-    position: "Chapter Co-chair",
+    name: "Northside Blue Line",
+//    position: "Chapter Co-chair",
     bio: (
       <>
-        <p>
-          My name is Emily Mikhail (she/they), and I am running for co-chair of Chicago DSA with the Mass Action Slate.
-        </p>
-        <p>
-          I have been a member of the chapter since spring 2019 and have had many roles. I served as secretary and co-chair of the Environmental Justice Working Group, as communications co-chair of the Democratize ComEd Campaign, as a member of the executive committee on the North Side Red Line Branch, and as delegate to the 2021 national DSA convention. With the support of CDSA, I ran for and won a seat as a community representative on my local elementary school’s Local School Council (LSC). Beyond CDSA. I also helped start the 48th Ward Neighbors for Justice, an independent political organization (IPO) in the Edgewater and Andersonville neighborhoods, and served as a member of both the provisional steering committee and first elected steering committee. Professionally, I'm a social worker.
-        </p>
-        <p>
-          My roles as both socialist and social worker continue to inform each other, especially in the pandemic. As a social worker, I am faced head-on with the injustices of a system structured to keep the working class down. Housing insecurity and homelessness, the lack of union jobs and good healthcare, the attack on reproductive rights, environmental racism, and white supremacy all oppress us by design, and only a mass socialist movement can overcome the power of the ruling class.
-        </p>
-        <p>
-          Ecosocialist organizing is what first brought me to DSA and will continue to be a priority of mine. I believe that as a mass organization that prioritizes internal democracy, we can go beyond what climate NGOs have been able to accomplish and face climate change head-on. As co-chair, I will connect our work supporting rank-and-file labor organizing with focused and winnable campaigns.
-        </p>
-        <p>
-          DSA is the largest socialist organization in the United States, and we are only growing. In the coming year, our chapter is positioned to reelect five socialists, expand the Socialist Caucus on City Council, and support militant unions in their contract negotiations and potential strikes. We’ve won over a dozen LSC seats, we’re poised to organize for the Worker’s Rights Amendment on the ballot this November, and our Labor Branch is successfully building worker committees and a jobs pipeline to bring more socialist union members into the coming contract fights. I see my role as co-chair as a supportive one. I want to use my time to bolster the good work happening across the chapter and bring new members into our Electoral Working Group, Labor Branch, Political Education Committee, and more.
-        </p>
-        <p>
-          Ultimately, I want to grow our chapter and build our capacity to tackle larger fights. We can only do so, however, if we are organized and intentional about the work that we take on. I want to spend my time as co-chair building strong campaigns, branches, and working groups that can take on these external fights and engage thousands of our neighbors in struggle. If we can accomplish this in the next year, I see no limits as to what our working-class movement can win.
-        </p>
+        <ul>
+          <li>Sarah C.</li>
+          <li>Anna F.</li>
+          <li>Sean K.</li>
+          <li>Patrick M.</li>
+          <li>Kate M.</li>
+          <li>Alec R.S.</li>
+          <li>Dov S.</li>
+        </ul>
       </>
     ),
   },
   {
-    name: "Steve Weishampel",
-    position: "Chapter Co-chair",
+    name: "Northside Red Line",
+//    position: "Chapter Co-chair",
     bio: (
       <>
-        <p>
-          My name is Steve Weishampel (he/him), and I am running for co-chair of Chicago DSA with the Mass Action Slate. I currently represent the Blue Line Branch on the executive committee.
-        </p>
-        <p>
-          CDSA is entering a year with immense opportunities to build working-class power with our labor and electoral work. We must energize and recommit our membership and working class of Chicago to meet these moments, and chapter leadership must prioritize building our organization through struggle. I want to be co-chair to lead CDSA in this exciting year, build our membership, develop our skills as socialist organizers, and win more power for the working class.
-        </p>
-        <p>
-          We must first establish a citywide electoral presence to build on our success in 2019. I was co-chair of the Electoral Working Group in 2018 when we passed an endorsement process and prepared the chapter for the 2019 municipal elections. Since then, the chapter has made huge strides and has built the infrastructure to carry out a comprehensive electoral program with the power to defend our incumbents and expand our socialist caucus on the city council next year. It is critical that our leadership supports that work, and that will be one of my top priorities as co-chair of the chapter.
-        </p>
-        <p>
-          Our country is experiencing a massive surge in union interest, including the Starbucks, School of the Art Institute, and Howard Brown Health unionization drives within our own city. Unions like CTU, SEIU 73, and the Teamsters are also entering contract negotiations, and we must prepare to support any possible strikes. In leading a union drive at my job, I’ve been responsible for building democratic structures and organizing the unorganized. I’ve had dozens of conversations with colleagues and acquaintances, learned their concerns, and have guided them to understand why organizing is necessary. As a chapter, we must prioritize labor organizing and consistently involve ourselves in supporting labor across the city.
-        </p>
-        <p>
-          I want to prioritize electoral and labor struggles because they are the vehicles by which we can win other demands. A militant labor movement led by socialists can apply pressure on institutions to win against the right—more pressure than we can exert otherwise. Elected officials can advance our demands through legislation and budgeting, use their platforms to amplify our demands, and provide a highly visible alternative to neoliberal austerity. Class-struggle electoral campaigns can agitate the working class by presenting a vision of a better world and force capitalist politicians to defend the present system. I don’t believe we can defeat privatization, white supremacy, patriarchy, corporate power, or any of our other enemies without labor power and an electoral presence.
-        </p>
-        <p>
-          I’m running on the Mass Action slate because we share a vision of rank-and-file labor power, class struggle at the ballot box, and mass organization. I think CDSA’s greatest danger in 2022–2023 is failing to rise to the opportunities ahead of us. I hope members will elect our slate to join us to help our chapter rise to meet the moment.
-        </p>
+        <ul>
+          <li>Waleeta C.</li>
+          <li>Cait G.</li>
+          <li>Isa J.</li>
+          <li>Heather M.</li>
+          <li>Casey M.</li>
+          <li>Michelle O.</li>
+        </ul>
       </>
     ),
   },
   {
-    name: "Leonard Pierce",
-    position: "Political Education Coordinator",
+    name: "Southside",
+//    position: "Political Education Coordinator",
     bio: (
       <>
-        <p>
-          My name is Leonard Pierce (he/him), and I am running for Political Education Coordinator with the Mass Action Slate.
-        </p>
-        <p>
-          I have been a member of the chapter since fall of 2015, and I have worn many hats. I was co-chair of the chapter from 2017–2019, a delegate (and chapter delegate chair) for the DSA national convention in 2017 and 2019, a member of the steering committee of the North Side Branch in 2019 and the North Side Blue Line Branch in 2020, and the chair of the Rapid Response working group from 2016–2018. I helped organize the 2017 convention in Chicago, I was part of planning the last two Debs Dinners, I was on the Labor Working Group prior to its becoming a branch, and I have written for Midwest Socialist and edited the Red Star Bulletin. Nationally, I’ve worked with the Red Rabbits, helped edit Democratic Left, and have worked with eight chapters in the Midwest as part of the national Mentorship Subcommittee. Outside of DSA, I have been an anti-war activist, a union organizer, a member of a black bloc cell that traveled to Seattle in 1999, a participant in Occupy San Antonio, a campaign volunteer for several socialist elected officials, and a contributor to anti-fascist actions dating back to the 1980s.
-        </p>
-        <p>
-          I was raised in the working class, the son of a glazier and an aerospace worker, and was brought up to support unions. Professionally, I work as a writer, editor, and proofreader, but I have also worked on a taco truck, been a bartender, and taken whatever other odd jobs I could find to make ends meet. My personal history, which includes bouts of homelessness, food insecurity, and jail time, have shown me first-hand the rough edges of life under capitalism. The lessons that I learned from on-the-job exploitation, injury, and economic uncertainty put me on the path to socialism and seeing the collapse of the Soviet Union, the decay of the already-fragile welfare state under neoliberalism, and one economic collapse after another has only further convinced me that our choice is socialism or barbarism.
-        </p>
-        <p>
-          I learned from both my life experience as a worker and my self-guided readings in socialist theory, as well as from the generous and thorough mentorship I have received from other people in my life, most especially my comrades in DSA. As Political Education Coordinator, I hope to build on our excellent already-existing Socialist Night School, as well as finding new venues to spread our message to the dynamic multi-racial working class of this magnificent city, and most of all, to find ways of channeling new and existing members through political education and leadership development into outward-facing campaigns that can make a material difference in the lives of our fellow Chicagoans in the difficult times to come. The best theory is what we put into practice, and the best ideas will always come from those we activate into service of the people.
-        </p>
+        <ul>
+          <li>Sarah H.</li>
+          <li>Rich R.</li>
+        </ul>
       </>
     ),
   },
   {
-    name: "Sean Estelle",
-    position: "Campaigns Coordinator",
+    name: "Labor",
+//    position: "Campaigns Coordinator",
     bio: (
       <>
-        <p>
-          My name is Sean Estelle, my pronouns are they/them, I live in Bridgeport in the South Side Branch, and I’m running for campaigns coordinator with the Mass Action Slate.
-        </p>
-        <p>
-          I believe that specific, issue-based campaigns for reforms that improve peoples’ material conditions can be an avenue for working-class people to build our organization by accomplishing goals laid out in our Chapter Campaigns Criteria, which were passed during my time serving on the executive committee of Chicago DSA in 2018. When we wrote those parameters, we envisioned that all campaigns would have clear benchmarks. I worked with leaders in the Environmental Justice Working Group to create a priority campaign proposal to Democratize ComEd, focused on using the narrow window of opportunity to create demands that would call for bringing the corrupt, private, investor-owned utility under public ownership.
-        </p>
-        <p>
-          When I am elected campaigns coordinator, I plan to work with campaign leaders and the entire organizational membership to identify strategic goals where they haven’t been identified, and execute win/loss conditions where they have already been formulated. Campaigns with clear goals bring more people into struggle and can engage all parts of the chapter. It is crucial that every campaign have an agreed-upon theory of change and plan to win that guide their fights.
-        </p>
-        <p>
-          In 2019, I was elected to the National Political Committee of DSA, the body responsible for carrying out decisions made by elected convention delegates. During my two years in that role, I worked on internal and external organizing campaigns developing the skills and class consciousness of members across the country while also working to guide the organization through a period of unprecedented political crisis. One of the pieces of work I’m most proud of during that time was developing a five-year strategy for the Green New Deal Priority campaign with both new and experienced organizers and participation from many chapters. As campaigns coordinator, I plan to build on efforts like Organizer School, the Cross-Campaign Retreats, and other organization-building tactics that will connect to campaign strategy skill-building.
-        </p>
-        <p>
-          I also plan to dedicate time to reinforcing the ways that campaign tactics are connected to other pieces of the organization. By strengthening our strike support, contract fights, the jobs pipeline, and other ongoing work within the Labor Branch, we can identify new leaders that can root campaign work more deeply in the multiracial working class through their unions. The same goes for the Electoral Working Group and the victories of 16 Local School Council candidates, the Political Education Committee and its work to build the class consciousness of our members, and so on.
-        </p>
-        <p>
-          The next year promises to be one full of challenges and exciting opportunities to build Chicago DSA and the power of the working class. As campaigns coordinator, I plan to work with new and existing leaders to take up this work, make sure we stay focused on organizing for the long haul, and win victories to improve material conditions for the many at the expense of our enemies. Let’s organize! 
-        </p>
+        <ul>
+          <li>Abby A.</li>
+          <li>Brendan B.S.</li>
+          <li>Tristan B.H.</li>
+          <li>Will B.</li>
+          <li>JP K.</li>
+          <li>Elce R.</li>
+          <li>Emilie S.</li>
+          <li>Ryan V.</li>
+        </ul>
       </>
     ),
   }
@@ -173,7 +138,7 @@ class Candidates2020 extends React.Component {
 
         <div className="content-column content-column-candidates">
           <Element name="candidates" id="candidates">
-            <h2>Meet the Candidates</h2>
+            <h2>Branch Slates</h2>
           </Element>
 
           <div className="candidate-cards">
@@ -210,24 +175,24 @@ class Candidates2020 extends React.Component {
             <h2>Important Dates</h2>
             <ul>
                 <li>
-                  <strong>Officer Candidate Forum:</strong>{" "}
-                  Wednesday, June 15 at 6 p.m. <ExternalLink href="https://us02web.zoom.us/meeting/register/tZUtdeqsrTMpH9cWNUZy9hD6mU3JRzZm0z8_?link_id=1&can_id=5d6065447bafae2189510e63df1f53d9&source=email-chicago-dsa-officer-candidate-statements-forum&email_referrer=email_1568383&email_subject=chicago-dsa-officer-candidate-statements-forum">on Zoom</ExternalLink>{" "}
+                  <strong>Branch Candidate Forums:</strong>{" "}
+                  Between July 12 and July 18{" "}
                 </li>
                 <li>
                   <strong>Deadline to Renew Dues:</strong>{" "}
-                  Friday, June 17{" "}
+                  Monday, July 18{" "}
                 </li>
                 <li>
                   <strong>Polls Open:</strong>{" "}
-                  Monday, June 20{" "}
+                  Monday, July 25{" "}
                 </li>
                 <li>
                   <strong>Polls Close:</strong>{" "}
-                  Friday, June 24
+                  Friday, July 29
                 </li>
                 <li>
                   <strong>Results Announced:</strong>{" "}
-                  Sunday, June 26
+                  Sunday, July 31
                 </li>
             </ul>
             <h2>
@@ -235,16 +200,16 @@ class Candidates2020 extends React.Component {
             </h2>
 
             <p>
-              The next year is of major importance for our chapter and for the working class of Chicago. The 2023 municipal elections, new labor/shop organizing campaigns, major union contract fights with UPS and CPS, and mass mobilizations against the right wing will be major opportunities to shift the balance of power towards working people and grow our movement. We need a powerful, fighting, worker-led, democratic socialist organization that can meet this moment and wage war against the ruling class during this pivotal moment in our city’s history.
+              The next year is of major importance for our chapter and for the working class of Chicago. The 2023 municipal elections, new labor/shop organizing campaigns, major union contract fights with UPS and CPS, and mass mobilizations against the right wing will be major opportunities to shift the balance of power towards working people and grow our movement. We need a powerful, fighting, worker-led, democratic socialist organization that can meet this moment and wage war against the ruling class during this pivotal moment in our city’s history. 
             </p>
             <p>
-              We are running a slate of candidates for chapter officer on a shared vision of a Chicago DSA that is rooted in mass-action politics &mdash; where we can move working-class people in every neighborhood in our city into action against the ruling class and into our socialist movement for the long term.
+              We are running a slate of candidates for branch representatives on a shared vision of a Chicago DSA that is rooted in mass action politics &mdash; where we can move working class people in every neighborhood in our city into action against the ruling class and into our socialist movement for the long term. 
             </p>
             <p>
               There are no shortcuts to building power, and we know we have an opportunity ahead to launch bigger campaigns than ever before that will make us stronger after each fight. To do this, Chicago DSA must prioritize growing militancy within the labor rank and file, running class-struggle electoral campaigns, engaging, recommitting, and developing our membership, conducting Marxist political education, ensuring chapter campaigns are centered on mass organizing, and putting real organizational democracy into practice.
             </p>
             <p>
-              The Chicago Bread &amp; Roses caucus has developed a platform laying out a vision for our chapter rooted in mass action. If you are a Chicago DSA member and agree with our platform, we encourage you to sign your name below and to support the Mass Action slate in the chapter officer elections this June. Regardless, we hope you will work with us this next year to build the socialist movement and build working-class power. We don’t have a moment to waste.
+              The Chicago Bread &amp; Roses caucus has developed a platform laying out a vision for our chapter rooted in mass action. If you are a Chicago DSA member and agree with our platform, we encourage you to sign your name below and to support the Mass Action slate in the chapter branch elections this July. Regardless, we hope you will work with us this next year to build the socialist movement and build working class power. We don’t have a moment to waste.
             </p>
             <p>
               <ExternalLink href="https://docs.google.com/forms/d/e/1FAIpQLSf5sMP7VoDz1pTydV4y0br0xKaiT16ipe7yKx61iXaVANan7A/viewform">
@@ -252,13 +217,13 @@ class Candidates2020 extends React.Component {
               </ExternalLink>
             </p>
 
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5sMP7VoDz1pTydV4y0br0xKaiT16ipe7yKx61iXaVANan7A/viewform?embedded=true" width="100%" height="3100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> 
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf5sMP7VoDz1pTydV4y0br0xKaiT16ipe7yKx61iXaVANan7A/viewform?embedded=true" width="640" height="2865" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
 
             <h3>
               Rank-and-File Labor Work ⚙️🛠️🩺
             </h3>
             <p>
-              The exploitation of the working class that powers capitalism also endows us with enormous potential power. As workers, we have the power to stop production and the flow of profits or to create a political crisis when public employees strike. Ending capitalism will require mobilizing this immense power. This means that every question of strategy can be answered by organizing the working class. Whether it is bread and butter workplace issues like wages and benefits or society-wide political questions like guaranteeing universal healthcare, protecting the right to abortion and reproductive health, shifting government funds out of police budgets and into our communities, or halting and reversing the damage that climate change is imposing on our planet, only an organized working class can bring to bear the power necessary to change the world.
+              The exploitation of the working class that powers capitalism also endows us with enormous potential power. As workers, we have the power to stop production and the flow of profits, or to create a political crisis when public employees strike. Ending capitalism will require mobilizing this immense power. This means that every question of strategy can be answered by organizing the working class. Whether it is bread and butter workplace issues like wages and benefits, or society-wide political questions like guaranteeing universal healthcare, protecting the right to abortion and reproductive health, shifting government funds out of police budgets and into our communities, or halting and reversing the damage that climate change is imposing on our planet, only an organized working class can bring to bear the power necessary to change the world.
             </p>
             <p>
               We believe that the most critical task for socialists then is to help develop a labor movement that is militant, class-conscious, and democratic. To achieve this goal, we believe in the execution of a <ExternalLink href="https://www.jacobinmag.com/2019/03/rank-and-file-strategy-union-organizing">rank-and-file strategy</ExternalLink> where we build ties between the socialist movement and the labor movement primarily at the level of rank-and-file leaders on the shop floor. This means that socialists must organize both alongside those already existing shop floor leaders and as rank-and-file workers themselves to rebuild the connection between the socialist movement and the labor movement.
@@ -271,7 +236,7 @@ class Candidates2020 extends React.Component {
             </p>
             <ul>
               <li>
-                Support and grow the rank-and-file jobs pipeline for healthcare workers and the Teamsters and create worker committees at employers with large concentrations of union members
+                Support and grow the rank and file jobs pipeline for healthcare workers and the Teamsters, and create worker committees at employers with large concentrations of union members
               </li>
               <li>
                 Reconstitute a standing strike and solidarity committee to provide ongoing support for strikes and contract fights in Chicago, give all DSA members the opportunity to be part of directly confronting the capitalist class, and build relationships with union members from the multiracial working class and bring them into the socialist movement
@@ -281,13 +246,13 @@ class Candidates2020 extends React.Component {
               </li>
             </ul>
             <h3>
-              Class Struggle Electoral Work 🚪🗳️📬
+              Class-Struggle Electoral Work 🚪🗳️📬
             </h3>
             <p>
               Outside pressure on politicians is not enough; socialists need to win elections and wield state power in support of a mass movement for social transformation. To win power at the ballot box, we need to build our electoral infrastructure as DSA and chart a path towards building an independent workers’ party. To this end, CDSA should work to elect class-struggle, cadre candidates who have a history of organizing within Chicago and understand and loudly support socialist politics and the socialist movement. Our elected officials should champion their working-class communities and bring them into our fights for our transformative demands.
             </p>
             <p>
-              To advance class struggle politics at the ballot box in the next year, we will:
+              To advance class-struggle politics at the ballot box in the next year, we will:
             </p>
             <ul>
               <li>

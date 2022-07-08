@@ -67,11 +67,13 @@
   max-height: 150px;
   border-radius: 50%;
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.08);
-  shape-outside: circle();
+/*  shape-outside: circle(); */ /* remove comments when candidate statements are full paragraphs */
   flex: 1 0 auto;
 }
 
 .ant-modal-body {
+    min-height: 21em;
+    
   h2 {
     margin-bottom: 0;
   }
