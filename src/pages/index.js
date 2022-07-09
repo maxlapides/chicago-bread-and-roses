@@ -20,7 +20,6 @@ const candidates = [
           <li>Anna F.</li>
           <li>Sean K.</li>
           <li>Patrick M.</li>
-          <li>Kate M.</li>
           <li>Alec R.S.</li>
           <li>Dov S.</li>
         </ul>
@@ -44,7 +43,7 @@ const candidates = [
     ),
   },
   {
-    name: "Southside",
+    name: "South Side",
 //    position: "Political Education Coordinator",
     bio: (
       <>
@@ -67,7 +66,7 @@ const candidates = [
           <li>Will B.</li>
           <li>JP K.</li>
           <li>Elce R.</li>
-          <li>Emilie S.</li>
+          <li>Emilie R.</li>
           <li>Ryan V.</li>
         </ul>
       </>
