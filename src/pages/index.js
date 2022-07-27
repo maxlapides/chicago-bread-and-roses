@@ -22,6 +22,7 @@ const candidates = [
           <li>Patrick M.</li>
           <li>Alec R.S.</li>
           <li>Dov S.</li>
+          <li>Kate M.</li>
         </ul>
       </>
     ),
